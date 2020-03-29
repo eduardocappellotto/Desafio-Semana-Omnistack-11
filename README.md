@@ -22,7 +22,7 @@ Extras:
 
 ## 💻 Projeto
 
-![enter image description here](https://i.imgur.com/bIZ9soV.png)
+[BeTheHero em aplicação Web e Mobile](https://i.imgur.com/02zs147.jpg)
 
 O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
 
